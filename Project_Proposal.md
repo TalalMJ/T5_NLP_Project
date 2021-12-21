@@ -1,3 +1,8 @@
+# Hotel Reviews Natural Language Processing
+
+![Greece_Hotel_Acropolis_Congress2020](https://user-images.githubusercontent.com/93079224/146894109-7bd53610-0918-4cf0-94d2-6a4377b7405d.png)
+
+
 # Introduction
 Client reviews are a crucial part of improving hotels and customers experience and travel plans.Customers reviews plays an important part for hotel improvement and in order to improve their services. In this project the purpose is to build a Natural Language Processing model that predicts whether the review is positive or negative.
 
