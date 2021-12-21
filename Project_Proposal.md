@@ -6,7 +6,8 @@ The goal of this project is to help hotels acknowledge the majority of reviews a
 
 
 # Data Description
-We will take the data from [Kaggle](https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe).The dataset contains over 500k reviews and scoring of more then 1k luxury hotels.:
+We will take the data from [Kaggle](https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe). 
+The dataset contains over 500k reviews and scoring of more then 1k luxury hotels.
 | Field Name | Description                                                                                                                                       |
 |-----------------------------|----------------------------------------------------------------------------------------------------------------------------------|
 |Hotel Address| Address of hotel.                                                                                                                                |
