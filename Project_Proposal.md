@@ -1,15 +1,12 @@
 # Introduction
-In this work the .
+Client reviews are a crucial part of improving hotels and customers experience and travel plans.Customers reviews plays an important part for hotel improvement and in order to improve their services. In this project the purpose is to build a Natural Language Processing model that predicts whether the review is positive or negative.
 
-The ...........
-
-.............................................
-
+The goal of this project is to help hotels acknowledge the majority of reviews and determine their customers feedback to improve hotel services and customers experience.
 
 
 
 # Data Description
-We will take the data from Kaggle:
+We will take the data from [Kaggle](https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe).The dataset contains over 500k reviews and scoring of more then 1k luxury hotels.:
 | Field Name | Description                                                                                                                                       |
 |-----------------------------|----------------------------------------------------------------------------------------------------------------------------------|
 |Hotel Address| Address of hotel.                                                                                                                                |
