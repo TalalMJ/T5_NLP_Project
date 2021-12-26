@@ -1,5 +1,5 @@
 # Hotel Reviews Natural Language Processing (MVP)
-Client reviews are a crucial part of improving hotels and customers experience and travel plans.Customers reviews plays an important part for hotel improvement and in order to improve their services. In this project the purpose is to build a Natural Language Processing model that predicts whether the review is positive or negative.
+Client reviews are a crucial part of improving hotels and customers experience and travel plans. Customers reviews plays an important part for hotel improvement and in order to improve their services. In this project the purpose is to build a Natural Language Processing model that predicts whether the review is positive or negative.
 
 The goal of this project is to help hotels acknowledge the majority of reviews and determine their customers feedback to improve hotel services and customers experience.
 
