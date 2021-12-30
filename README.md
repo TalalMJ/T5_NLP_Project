@@ -4,4 +4,4 @@ NLP Project for SDAIA T5
 
 * [Project Proposal](Project_Proposal.md)
 * [MVP](MVP.md)
-* [Slides](Presentation.pdf)
+* [Slides](Hotel_Reviews_NLP.pdf)
